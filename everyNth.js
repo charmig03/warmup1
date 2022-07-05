@@ -5,4 +5,3 @@ function everyNth(str, n){
   }
   return result;
 }
-}
