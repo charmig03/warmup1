@@ -1,6 +1,7 @@
 //monkeyTrouble js
 function monkeyTrouble(aSmile, bSmile){
-  if (aSmile && bSmile) {
+  if (aSmile && bSmile)
+   {
     return true;
   }
   if (!aSmile && !bSmile) 
