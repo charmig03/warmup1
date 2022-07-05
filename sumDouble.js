@@ -1,4 +1,4 @@
-#sumDouble js
+// sumDouble js
 function sumDouble(a, b){
    if (a == b) 
    {
